@@ -1,0 +1,345 @@
+
+<!DOCTYPE html>
+<html lang='id'>
+  <head>
+    <title>INDOJAYAPOKER | PANDUAN DEPOSIT AUTO QRIS DIBAWAH 1 MENIT</title>
+    <meta name="Description" content="INDOJAYAPOKER KINI PUNYA DEPOSIT AUTO QRIS, YANG MANA SALDO AKAN LANGSUNG MASUK KE ID DI BAWAH 1 MENIT.">
+    <meta charset="utf-8">
+    <link rel="canonical" href="/">
+    <link rel="icon" type="image/x-icon" href="https://i.postimg.cc/Ls134MMj/INDOJAYAPOKER.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style>
+      body {
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both
+      }
+
+      @-webkit-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-moz-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-ms-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @-o-keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+
+      @keyframes -amp-start {
+        from {
+          visibility: hidden
+        }
+
+        to {
+          visibility: visible
+        }
+      }
+    </style>
+    <noscript>
+      <style>
+        body {
+          -webkit-animation: none;
+          -moz-animation: none;
+          -ms-animation: none;
+          animation: none
+        }
+      </style>
+    </noscript>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      html {
+        width: 100%;
+      }
+
+      body,
+      html {
+        height: 100%;
+      }
+
+      a {
+        color: #E7E393;
+        text-decoration: none;
+        font-weight: 700;
+      }
+
+      body {
+        background-color: #9a0000;
+        background-image: url("#");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        font-family: 'cambria', sans-serif;
+      }
+
+      .konten {
+        background: linear-gradient(to right, #000000, #380202, #ab0c0c, #f0dc3f);
+        max-width: 1080px;
+        padding: 10px;
+        margin: 0 auto;
+        margin-bottom: 5px;
+        position: relative;
+        z-index: 0;
+      }
+
+      #ico {
+        width: 30px;
+      }
+
+      #banner {
+        max-width: 600px;
+        margin: 0 auto;
+      }
+
+      img {
+        width: 100%;
+      }
+
+      amp-img {
+        width: 100%;
+      }
+
+      .logo {
+        text-align: center;
+      }
+
+      .logo img {
+        width: 100%;
+        max-width: 300px;
+      }
+
+      .bottom-nav {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        /* height: 60px; */
+        background-color: #a90f0f;
+        background-image: url(/tex-nav.png);
+        border-top: 2px solid #ffbf00;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 2;
+
+      }
+
+      .bottom-nav img {
+        width: 30px;
+        text-align: center;
+      }
+
+      .bottom-nav .hore {
+        width: 80px;
+        padding-top: 10px;
+      }
+      .center {
+        text-align: center;
+      }
+
+      .fix {
+        margin-top: -6px;
+      }
+
+      .spacer {
+        margin-bottom: 15px;
+      }
+
+      .glow {
+        color: #fff;
+        animation: glow 1s ease-in-out infinite alternate;
+        font-weight: 700;
+      }
+
+      @-webkit-keyframes glow {
+        from {
+          text-shadow: 0 0 10px #eec85d, 0 0 20px #eec85d, 0 0 30px #eec85d, 0 0 40px #111, 0 0 50px #111, 0 0 60px #111, 0 0 70px #000;
+        }
+
+        to {
+          text-shadow: 0 0 20px #eec85d, 0 0 30px #eec85d, 0 0 40px #eec85d, 0 0 50px #eec85d, 0 0 60px #eec85d, 0 0 70px #eec85d, 0 0 80px #eec85d;
+        }
+      }
+
+      .block {
+        background: linear-gradient(to right, #200201, #5d0303);
+        position: relative;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 30px 10px;
+        margin: 20px auto;
+        border-radius: 7px;
+        border: 2px solid rgb(92, 75, 7);
+        text-shadow: 0 0 4px #111111;
+        font-weight: 700;
+      }
+
+      .glow-btn::before,
+      glow::after {
+        content: '';
+        position: absolute;
+        left: -5px;
+        top: -5px;
+        background: linear-gradient(45deg, #f3e5ab, #f7d9f4, gold, #000000, #c9ffbf, #f3e5ab);
+        background-size: 400%;
+        width: calc(100% + 10px);
+        height: calc(100% + 10px);
+        z-index: -1;
+        animation: animate 15s linear infinite;
+
+      }
+
+      @keyframes animate {
+        0% {
+          background-position: 0 0;
+        }
+
+        50% {
+          background-position: 400% 0;
+        }
+
+        100% {
+          background-position: 0 0;
+        }
+      }
+
+      .glow-btn::before {
+        filter: blur(10px);
+        opacity: 100;
+        transition: opacity 0.5s ease-in-out;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="konten">
+      <div class="logo">
+        <a href="/">
+          <amp-img src="https://i.postimg.cc/BZCSWBgV/BANNER1.png" layout="responsive" width="1000" height="500" alt="INDOJAYAPOKER" loading="lazy"></amp-img>
+        </a>
+      </div>
+    </div>
+    
+    <div class="konten spacer">
+      <div>
+        <div id="banner">
+          <amp-img src="https://i.postimg.cc/NjKBHqw3/BANNER.gif" layout="responsive" width="600" height="450" alt="INDOJAYAPOKER" loading="lazy"></amp-img>
+          <a href="#ewallet" class="block glow-btn">
+            <h3>Panduan AUTO DEPO QRIS E-Wallet</h3>
+          </a>
+          <a href="#bank" class="block glow-btn">
+            <h3>Panduan AUTO DEPO QRIS Bank Lokal</h3>
+          </a>
+        </div>
+        <!--<a href="/bank.html" class="block glow-btn">
+            <p>Panduan Depo Kilat Bank Lokal</p>
+        </a>-->
+        <!--details style="margin:20px 0;"-->
+      </div>
+    </div>
+    
+    <div class="konten spacer">
+      <h2 id="ewallet" style="margin-top:5px;color:lightgoldenrodyellow;text-shadow:1px 1px 5px #ff9c55;font-weight:700;text-align:center">Panduan AUTO DEPO QRIS E-Wallet</h2>
+      <div style="text-align: center;">
+      <br>
+        <amp-img src="TOT1.webp" layout="responsive" width="1080" height="3388" alt="Panduan AUTO DEPO QRIS E-Wallet"></amp-img>
+      </div>
+    </div>
+    <!--/details-->
+    <!--<a href="/ewallet.html" class="block glow-btn">Panduan Depo Kilat E-Wallet</a>-->
+    <!--details style="margin:20px 0;"-->
+    
+    <div class="konten spacer" style="margin-bottom:100px;">
+      <h2 id="bank" style="margin-top:5px;color:lightgoldenrodyellow;text-shadow:1px 1px 5px #ff9c55;font-weight:700;text-align:center">Panduan AUTO DEPO QRIS Bank Lokal</h2>
+      <div style="text-align: center;">
+      <br>
+        <amp-img src="TOT2.webp" layout="responsive" width="1080" height="3388" alt="Panduan AUTO DEPO Bank Lokal"></amp-img>
+      </div>
+      <!--/details-->
+    </div>
+    
+    <div class="spacer"></div>
+    
+    <div class="footer">
+      <p></p>
+    </div>
+    <section>
+      <h2>Navigation Menu</h2>
+      <div class="bottom-nav">
+        <a href="https://deposit-auto-qris-indojayapoker.netlify.app/">
+          <div class="center">
+            <img src="https://i.postimg.cc/76JdyRKR/HOME.png" alt="HOME">
+          </div>
+          <div class="center"></div>
+        </a>
+        <a href="#bank">
+          <div class="center">
+            <img src="https://i.postimg.cc/59vT7ZYY/BANK.png" alt="AUTO QRIS melalui BANK">
+          </div>
+          <div class="center"></div>
+        </a>
+        <a href="https://gasdulu.vip/IDJ" target="_blank">
+          <div class="center fix">
+            <img class="hore" src="https://i.ibb.co/G7xpBSd/logostar1.png" alt="INDOJAYAPOKER">
+          </div>
+          <div class="center"></div>
+        </a>
+        <a href="#ewallet">
+          <div class="center">
+            <img src="https://i.postimg.cc/hvPmdkNy/EWALLET.png" alt="AUTO QRIS melalui EWALLET">
+          </div>
+          <div class="center"></div>
+        </a>
+        <a href="https://direct.lc.chat/9272230/" target="_blank">
+          <div class="center">
+            <img src="https://i.postimg.cc/8c07rjRc/LIVECHAT.png" alt="Live Chat INDOJAYAPOKER">
+          </div>
+          <div class="center"></div>
+        </a>
+      </div>
+    </section>
+    
+  </body>
+</html>
